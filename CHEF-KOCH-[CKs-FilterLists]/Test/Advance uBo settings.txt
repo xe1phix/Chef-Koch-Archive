@@ -1,0 +1,20 @@
+                  assetFetchTimeout 80
+          autoCommentFilterTemplate {{date}} {{origin}}
+         autoUpdateAssetFetchPeriod 300
+                   autoUpdatePeriod 6
+      cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
+                    cacheStorageAPI unset
+            cacheStorageCompression true
+                    debugScriptlets false
+                 disableWebAssembly false
+              ignoreRedirectFilters false
+          ignoreScriptInjectFilters false
+       manualUpdateAssetFetchPeriod 1
+      nanoIgnoreThirdPartyWhitelist false
+nanoMakeThirdPartyFiltersPrivileged false
+      nanoMakeUserFiltersPrivileged false
+                      popupFontSize unset
+        requestJournalProcessPeriod 1000
+       strictBlockingBypassDuration 120
+              suspendTabsUntilReady true
+              userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
