@@ -1,0 +1,42 @@
+allowGenericProceduralFilters false
+            assetFetchTimeout 30
+    autoCommentFilterTemplate {{date}} {{origin}}
+   autoUpdateAssetFetchPeriod 120
+   autoUpdateDelayAfterLaunch 180
+             autoUpdatePeriod 6
+          benchmarkDatasetURL unset
+             blockingProfiles 11111/#F00 11011/#C0F 11001/#00F 00001
+              cacheStorageAPI unset
+      cacheStorageCompression true
+cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
+              cnameIgnoreList unset
+          cnameIgnore1stParty true
+        cnameIgnoreExceptions true
+      cnameIgnoreRootDocument true
+                  cnameMaxTTL 100
+           cnameReplayFullURL false
+                 cnameUncloak true
+          cnameUncloakProxied false
+              consoleLogLevel unset
+              debugScriptlets false
+       debugScriptletInjector false
+           disableWebAssembly false
+   extensionUpdateForceReload true
+        ignoreRedirectFilters false
+    ignoreScriptInjectFilters false
+             filterAuthorMode false
+              loggerPopupType popup
+ manualUpdateAssetFetchPeriod 500
+                popupFontSize 12px
+   popupPanelDisabledSections 0
+     popupPanelLockedSections 39
+         popupPanelHeightMode 0
+  requestJournalProcessPeriod 1000
+                  selfieAfter 10
+ strictBlockingBypassDuration 120
+        suspendTabsUntilReady unset
+                uiPopupConfig undocumented
+                     uiFlavor classic
+                     uiStyles unset
+updateAssetBypassBrowserCache true
+        userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
